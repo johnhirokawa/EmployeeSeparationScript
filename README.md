@@ -12,6 +12,7 @@ This PowerShell script automates the process of handling employee separations wi
 
 <h2>Platforms and Softwares Used</h2>
 
+- <b>Microsoft Forms</b>
 - <b>Power Automate</b>
 - <b>Excel</b>
 
